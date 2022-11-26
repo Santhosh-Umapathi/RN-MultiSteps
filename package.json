@@ -14,9 +14,11 @@
     "react-native": "0.70.6",
     "react-native-fast-image": "^8.6.3",
     "react-native-gesture-handler": "^2.8.0",
-    "react-native-reanimated": "^2.13.0"
+    "react-native-reanimated": "^2.13.0",
+    "rn-module": "/Users/santhosh-umapathi/Desktop/Playground/RN-Module"
   },
   "devDependencies": {
+    "@appymango/cli": "^1.5.2",
     "@babel/core": "^7.12.9",
     "@babel/runtime": "^7.12.5",
     "@react-native-community/eslint-config": "^2.0.0",
