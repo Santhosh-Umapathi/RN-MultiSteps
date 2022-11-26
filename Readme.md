@@ -1,1 +1,3 @@
-// "rn-module": "/Users/santhosh-umapathi/Desktop/Playground/RN-Module"
+## Features
+
+- Installed Custom RN Module from Local Machine
