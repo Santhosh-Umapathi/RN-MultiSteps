@@ -15,7 +15,8 @@
     "react-native-fast-image": "^8.6.3",
     "react-native-gesture-handler": "^2.8.0",
     "react-native-reanimated": "^2.13.0",
-    "rn-module": "/Users/santhosh-umapathi/Desktop/Playground/RN-Module"
+    "react-native-ui-lib": "^6.24.0",
+    "rn-module": "/Users/santhosh-umapathi/Desktop/Playground/RN-Module/rn-module-1.0.0.tgz"
   },
   "devDependencies": {
     "@appymango/cli": "^1.5.2",
