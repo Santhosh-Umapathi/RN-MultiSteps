@@ -6397,9 +6397,9 @@ rimraf@~2.6.2:
   dependencies:
     glob "^7.1.3"
 
-"rn-module@file:../RN-Module/rn-module-1.0.0.tgz":
+rn-module@/Users/santhosh-umapathi/Desktop/Playground/RN-Module/rn-module-1.0.0.tgz:
   version "1.0.0"
-  resolved "file:../RN-Module/rn-module-1.0.0.tgz#3ab3f47aa93a247440f1c59f128dfe24f7c87bf5"
+  resolved "/Users/santhosh-umapathi/Desktop/Playground/RN-Module/rn-module-1.0.0.tgz#e90aae2bc3e7eb86398bf43f970929f222c0740d"
 
 rsvp@^4.8.4:
   version "4.8.5"
