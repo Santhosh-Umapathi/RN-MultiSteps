@@ -4,3 +4,4 @@
 
 //Step 2 - Created automatically
 #import "React/RCTBridgeModule.h"
+#import "React/RCTEventEmitter.h"

@@ -10,9 +10,29 @@
 
 #import <Foundation/Foundation.h>
 #import "React/RCTBridgeModule.h"
+#import "React/RCTEventEmitter.h"
 
+//Method 1
+/*
 // Export the module
 @interface RCT_EXTERN_MODULE(Fastis,NSObject)
+
+// Export the methods of Module.
+RCT_EXTERN_METHOD(incrementCount:
+                    (RCTResponseSenderBlock)callback
+                  );
+
+RCT_EXTERN_METHOD(decrementCount:
+                    (RCTPromiseResolveBlock)resolve
+                    reject:(RCTPromiseRejectBlock)reject
+                  );
+
+@end
+*/
+
+//Method 2
+// Export the module
+@interface RCT_EXTERN_MODULE(Fastis,RCTEventEmitter)
 
 // Export the methods of Module.
 RCT_EXTERN_METHOD(incrementCount:
